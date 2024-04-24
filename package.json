@@ -4,6 +4,7 @@
   "description": "Tengen Uzui Dark Color Theme",
   "version": "0.1.0",
   "publisher": "SamiulUtshaw",
+  "license": "MIT",
   "repository": {
     "type": "git",
     "url": "https://github.com/SamiulUtshaw/uzui-dark"
@@ -15,6 +16,7 @@
     "color-theme",
     "Samiul Utshaw"
   ],
+  "icon": "icon.png",
   "engines": {
     "vscode": "^1.88.0"
   },
