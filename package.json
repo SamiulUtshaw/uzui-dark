@@ -6,8 +6,15 @@
   "publisher": "SamiulUtshaw",
   "repository": {
     "type": "git",
-    "url": "https://github.com/SamiulUtshaw/Uzui-Dark-Color-Theme.git"
+    "url": "https://github.com/SamiulUtshaw/uzui-dark"
   },
+  "keywords": [
+    "theme",
+    "uzui",
+    "dark",
+    "color-theme"
+    "vscode",
+  ],
   "engines": {
     "vscode": "^1.88.0"
   },
