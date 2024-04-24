@@ -4,6 +4,10 @@
   "description": "Tengen Uzui Dark Color Theme",
   "version": "0.0.1",
   "publisher": "SamiulUtshaw",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SamiulUtshaw/Uzui-Dark-Color-Theme.git"
+  },
   "engines": {
     "vscode": "^1.88.0"
   },
