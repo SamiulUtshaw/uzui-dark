@@ -1,0 +1,21 @@
+{
+  "name": "uzui-dark",
+  "displayName": "Uzui Dark",
+  "description": "Tengen Uzui Dark Color Theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.88.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Uzui Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Uzui Dark-color-theme.json"
+      }
+    ]
+  }
+}
