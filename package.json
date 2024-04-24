@@ -12,7 +12,8 @@
     "theme",
     "uzui",
     "dark",
-    "color-theme"
+    "color-theme",
+    "Samiul Utshaw"
   ],
   "engines": {
     "vscode": "^1.88.0"
