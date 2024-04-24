@@ -13,7 +13,6 @@
     "uzui",
     "dark",
     "color-theme"
-    "vscode",
   ],
   "engines": {
     "vscode": "^1.88.0"
